@@ -14,5 +14,5 @@ Project Laravel Personal Web Profile
 5. php artisan serve
 
 6. Buka di browser:
-7. http://localhost:8000/education
-8. http://localhost:8000/skills
+7. http://kicaw.test/education
+8. http://kicaw.test/skills
