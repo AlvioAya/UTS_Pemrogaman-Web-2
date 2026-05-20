@@ -9,10 +9,10 @@ Project Laravel Personal Web Profile
 ## Cara Menjalankan
 1. Clone repository
 2. Jalankan:
-   php artisan migrate
-   php artisan db:seed
-   php artisan serve
+3. php artisan migrate
+4. php artisan db:seed
+5. php artisan serve
 
-3. Buka di browser:
-   http://localhost:8000/education
-   http://localhost:8000/skills
+6. Buka di browser:
+7. http://localhost:8000/education
+8. http://localhost:8000/skills
