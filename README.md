@@ -1,2 +1,6 @@
 # UTS_Pemrogaman-Web-2
-fungsi file .env dalam Laravel,membuat migration dan seeder, tersimpan di database, diambil menggunakan controller,ditampilkan pada view (Blade).
+Cara menjalankan:
+
+1. php artisan migrate
+2. php artisan db:seed
+3. php artisan serve
